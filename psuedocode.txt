@@ -1,0 +1,16 @@
+Name that Tune (80s edition) - One Player Guessing Game
+
+Home screen will display:
+    - Game title
+    - Game Instructions
+    - Leaderboard for top scoring players
+    - User will click the "Let's Play!" button and the first line of song lyrics will appear.
+
+Guessing Portion:
+- User will choose between one of four answers and their incorrect/correct answer will be stored. 
+- Game will store number of correct/incorrect answers. 
+
+Final Display:
+- The stored value of the correct/incorrect answers will display as a "final score" after the user has answered all 10 questions.
+- If the user scores 6 and above, their name will be added to the leaderboard and a "winnerMessage" will display. 
+- If the user scores 5 and below, their name wil not be added to the leaderboard and a "loserMessage" will display.
