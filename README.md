@@ -1,7 +1,5 @@
 # **NAME THAT TUNE!**
 
-## Inspiration
-
 ## Rules and General Overview
 
 "Name That Tune" is a single-player quiz game. The goal of the game is to correctly name as many songs as you can after listening to part of the recording and reading a snippet of the lyrics. 
@@ -46,3 +44,4 @@ Play "Name That Tune" at the following link: [here](https://nicbrou.github.io/Na
 ## Future Work
 
 - Add a functionality to give the option to choose different eras of music. 
+- Add a functionality to store data of past players in a "rockstar leaderboard." 
