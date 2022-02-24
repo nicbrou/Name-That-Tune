@@ -41,7 +41,8 @@ The player achieves a certain "performer status" depending on how many songs are
 
 ## Play the Game
 
-The game can be accessed [here](https://pages.git.generalassemb.ly/martinnicola/project-1-checkers/). It requires two players. Remember, red always goes first. When the game concludes, a very popular song plays when the winner is announced. Good luck and follow the rules.
+[here](https://nicbrou.github.io/Name-That-Tune/). 
 
 ## Future Work
 
+- Add a functionality to give the option to choose different eras of music. 
