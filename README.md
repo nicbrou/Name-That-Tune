@@ -41,7 +41,7 @@ The player achieves a certain "performer status" depending on how many songs are
 
 ## Play the Game
 
-[here](https://nicbrou.github.io/Name-That-Tune/). 
+Play "Name That Tune" at the following link: [here](https://nicbrou.github.io/Name-That-Tune/). 
 
 ## Future Work
 
