@@ -1,24 +1,3 @@
-/*----- constants -----*/
-
-// FOR TIME COUNTER FOR EACH SECTION!!
-// let counter = 10
-
-// function decreaseCounter(){
-//   console.log( `[decreaseCounter] ccounter=${counter}`)
-//   document.querySelector('#counter').innerHTML = counter;
-  
-//   if( counter<1 ){
-//     // counter done! showing final message!
-//       document.querySelector('#counter').innerHTML = "DONE!";
-//   } else {
-//     counter = counter-1;
-//     setTimeout( decreaseCounter, 1000 );
-//   }
-// }
-
-// decreaseCounter();
-
-/*----- app's state (variables) -----*/
 
 /*----- cached element references -----*/
 
@@ -357,7 +336,6 @@ function finalScore () {
             displayLyrics.innerHTML = "You achieved '80s Garage Band' status! Keep strumming that air guitar, and increase your status next time!";
             performerStatusP.innerHTML = "NOT A WIN :( ";
             
-
         }else if(correctGuesses.length > 3 && correctGuesses.length <= 5) {
             guessListCorrect.innerHTML = "Final Score: ";
             guessListIncorrect.innerHTML = + correctGuesses.length + " OUT OF " + " 10";
