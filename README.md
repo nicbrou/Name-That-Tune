@@ -37,7 +37,7 @@ The player achieves a certain "performer status" depending on how many songs are
 ![Correct choice made with correct guess message](img/ChoiceWithCorrectGuess.png)
 
 - See below, when a player makes a incorrect choice:
-![Incorrect choice made with incorrect guess message](img/ChoiceWithCorrectGuess.png)
+![Incorrect choice made with incorrect guess message](img/ChoiceWithIncorrectGuess.png)
 
 - Below is an image of the end of the game when the required total of six points to win the game, have not been scored:
 ![End of Game, loser](img/EndGameNotAWin.png)
