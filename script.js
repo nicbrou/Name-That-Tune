@@ -45,7 +45,7 @@ let resetButton = document.getElementById("resetButton");
 
 let timeoutID;
 
-function playSong (song, timeout = 20000, currentTime = 10, volume = 0.05) {
+function playSong (song, timeout, currentTime, volume) {
     const audioElement = document.querySelector("#audioPlayer");
     if (timeoutID) {
         clearTimeout(timeoutID);

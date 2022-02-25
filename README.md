@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-In my previous career, I worked as a music therapist with seniors in long term care facilities. During theme-based singing groups, we played a game called, "Name that Tune" in which I would sing and play my guitar and the group members would guess what song I was singing. That is what inspired this browser game and instead of live music, it's pre-recorded. I am a singer-songwriter and musician as well and decided to sing record one of the songs in the game. See if you can guess which one! 
+In my previous career, I worked as a music therapist with seniors in long term care facilities. During theme-based singing groups, we played a game called, "Name that Tune" in which I would sing and play my guitar and the group members would guess what song I was singing. That is what inspired this browser game and instead of live music, it's pre-recorded. I am a singer-songwriter and musician as well and decided to sing and record one of the songs in the game. See if you can guess which one! 
 
 ## Rules and General Overview
 
