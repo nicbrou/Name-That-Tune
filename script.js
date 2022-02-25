@@ -70,7 +70,7 @@ const lyrics = [
         ],
         
         play: function () {
-            playSong("music/TakeonMe.mp3", 32000, 10, 0.07)
+            playSong("music/TakeonMe.mp3", 32000, 10, 0.09)
         },
         correctAnswer: "choiceA",
         incorrectAnswers: ["choiceB", "choiceC", "choiceD"],
@@ -85,7 +85,7 @@ const lyrics = [
             "It's the End of the World as we Know it by R.E.M.",
             ],
             play: function () {
-                    playSong("music/IWannaDanceWithSomebody.mp3", 33000, 30, 0.05)
+                    playSong("music/IWannaDanceWithSomebody.mp3", 33000, 30, 0.07)
             
             },
             correctAnswer: "choiceC",
@@ -101,7 +101,7 @@ const lyrics = [
             "Girls Just Wanna Have Fun by Cyndi Lauper",
             ],
         play: function () {
-            playSong("music/GirlsJustWannaHaveFun.mp3", 28000, 0, 0.04)
+            playSong("music/GirlsJustWannaHaveFun.mp3", 28000, 0, 0.06)
         
         },
             correctAnswer: "choiceD",
@@ -117,7 +117,7 @@ const lyrics = [
             "Every Breath you Take by The Police",
             ],
         play: function () {
-                playSong("music/TotalEclipseOfTheHeart.mp3", 30000, 46, 0.03)
+                playSong("music/TotalEclipseOfTheHeart.mp3", 30000, 46, 0.05)
         },
             correctAnswer: "choiceB",
             incorrectAnswers: ["choiceA", "choiceC", "choiceD"],
@@ -132,7 +132,7 @@ const lyrics = [
             "What's Love Got to Do With It by Tina Turner",
             ],
             play: function () {
-                playSong("music/BeatIt.mp3", 22000, 27, 0.04)
+                playSong("music/BeatIt.mp3", 22000, 27, 0.06)
             },
             correctAnswer: "choiceA",
             incorrectAnswers: ["choiceB", "choiceC", "choiceD"],
@@ -147,7 +147,7 @@ const lyrics = [
             "Where Is My Mind? by the Pixies", 
             ],
             play: function () {
-                playSong("music/SweetDreams.mp3", 20000, 9, 0.07)
+                playSong("music/SweetDreams.mp3", 20000, 9, 0.09)
             },
             correctAnswer: "choiceC",
             incorrectAnswers: ["choiceA", "choiceB", "choiceD"],
@@ -162,7 +162,7 @@ const lyrics = [
             "Hungry Like the Wolf by Duran Duran",
             ],
             play: function () {
-                playSong("music/HungryLikeTheWolf.mp3", 25000, 22, 0.06)
+                playSong("music/HungryLikeTheWolf.mp3", 25000, 22, 0.08)
             },
             correctAnswer: "choiceD",
             incorrectAnswers: ["choiceA", "choiceB", "choiceC"],
@@ -179,7 +179,7 @@ const lyrics = [
             ],
             //start play at 35 seconds
             play: function () {
-                playSong("music/PourSomeSugarOnMe.mp3", 32000, 30, 0.07)
+                playSong("music/PourSomeSugarOnMe.mp3", 32000, 30, 0.09)
             },
             correctAnswer: "choiceB",
             incorrectAnswers: ["choiceA", "choiceC", "choiceD"],
@@ -194,7 +194,7 @@ const lyrics = [
             "I Can’t Go With That by Hall & Oates",
             ],
             play: function () {
-                playSong("music/WakeMeUpBeforeYouGoGo.mp3", 28000, 10, 0.03)
+                playSong("music/WakeMeUpBeforeYouGoGo.mp3", 28000, 10, 0.05)
             },
             correctAnswer: "choiceC",
             incorrectAnswers: ["choiceA", "choiceB", "choiceD"],
@@ -209,7 +209,7 @@ const lyrics = [
             "Summer of ’69 by Bryan Adams",
             ],
             play: function () {
-                playSong("music/RaspberryBeret.mp3", 32000, 30, 0.07)
+                playSong("music/RaspberryBeret.mp3", 32000, 30, 0.09)
             },
             correctAnswer: "choiceA",
             incorrectAnswers: ["choiceB", "choiceC", "choiceD"],
@@ -224,7 +224,7 @@ const lyrics = [
             "Down Under by Men at Work",
             ],
             play: function () {
-                playSong("music/LandDownUnder.mp3", 18000, 12, 0.03)
+                playSong("music/LandDownUnder.mp3", 18000, 12, 0.05)
             },
             correctAnswer: "choiceD",
             incorrectAnswers: ["choiceA", "choiceB", "choiceC"],
@@ -239,7 +239,7 @@ const lyrics = [
             "Waiting For a Girl Like You by Foreigner",
             ],
             play: function () {
-                playSong("music/Africa.mp3", 25000, 65, 0.03)
+                playSong("music/Africa.mp3", 25000, 65, 0.05)
             },
             correctAnswer: "choiceC",
             incorrectAnswers: ["choiceA", "choiceB", "choiceD"],
