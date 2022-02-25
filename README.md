@@ -1,5 +1,9 @@
 # **NAME THAT TUNE!**
 
+## Inspiration
+
+In my previous career, I worked as a music therapist with seniors in long term care facilities. During theme-based singing groups, we played a game called, "Name that Tune" in which I would sing and play my guitar and the group members would guess what song I was singing. That is what inspired this browser game and instead of live music, it's pre-recorded. I am a singer-songwriter and musician as well and decided to sing record one of the songs in the game. See if you can guess which one! 
+
 ## Rules and General Overview
 
 "Name That Tune" is a single-player quiz game. The goal of the game is to correctly name as many songs as you can after listening to part of the recording and reading a snippet of the lyrics. 
@@ -23,12 +27,22 @@ The player achieves a certain "performer status" depending on how many songs are
 - If the player guesses incorrectly a message with a running total of incorrect guesses appears, and adds subsequent incorrect guesses.
 
 ## Screenshots
-
+- A screenshot of a new game. The player is directed to enter their "stage name" and click the "Let's Play!" button. 
 ![New Game](img/NewGame.png)
+
+- After the player has entered their "stage name" and clicked the "Let's Play!" button, the first recording starts playing along with the corresponding lyrics, as seen below:
 ![First Song to guess, with player's "Stage Name"](img/FirstSong.png)
+
+- Once the player makes their choice out of the four provided options, a result message and running total of points will appear. See below, when a player makes a correct choice:
 ![Correct choice made with correct guess message](img/ChoiceWithCorrectGuess.png)
+
+- See below, when a player makes a incorrect choice:
 ![Incorrect choice made with incorrect guess message](img/ChoiceWithCorrectGuess.png)
+
+- Below is an image of the end of the game when the required total of six points to win the game, have not been scored:
 ![End of Game, loser](img/EndGameNotAWin.png)
+
+- Below is an image of the end of the game when the required total of six points to win the game, have been scored:
 ![End of Game, winner](img/EndGameWinner.png)
 
 ## Technologies Used
