@@ -58,6 +58,7 @@ body {
     grid-template-rows: 1fr;
     align-content: center;
 } 
+
   h1 {
     grid-column-start: 1;
     grid-column-end: 6;
@@ -80,7 +81,7 @@ body {
     0 0 100px  #FFD3EE,
     0 0 150px  #FFD3EE,
     0 0 200px  #FFD3EE;
-  }
+}
 
 #musicEra {
     grid-column-start: 4;
@@ -146,7 +147,7 @@ body {
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     gap: 5px;
 
-  }
+}
 
 .gridItem {
     display: grid;
@@ -204,7 +205,6 @@ body {
 #showLyrics {
     font-size: 15px;
 }
-
 
 #nextButton {
     grid-column-start: 2;
@@ -376,39 +376,39 @@ body {
 
 /* H1 */
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
     h1 { 
-      font-size: 18px;
-      text-align: left;
+        font-size: 18px;
+        text-align: left;
     }
 }
 
 @media (min-width: 769px) {
     h1 { 
-      font-size: 50px;
-      text-align: left;
+        font-size: 50px;
+        text-align: left;
     }
 }
 
 /* #MUSIC ERA */
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
     #musicEra { 
-      font-size: 13px;
-      text-align: center;
-      padding: 5px;
+        font-size: 13px;
+        text-align: center;
+        padding: 5px;
     }
 }
 
 /* #LET'S PLAY BUTTON */
 
-    @media (max-width: 768px) {
-        #letsPlayButton {
-            border: 3px solid white;
-            border-radius: 50%;
-            font-size: 14px;
-            align-self: center;
-            }
+@media (max-width: 768px) {
+    #letsPlayButton {
+        border: 3px solid white;
+        border-radius: 50%;
+        font-size: 14px;
+        align-self: center;
+        }
     }
 
 /* DISPLAY LYRICS */
@@ -431,8 +431,8 @@ body {
 
 @media (max-width: 768px) {
     #performerStatus { 
-      font-size: 13px;
-      text-align: center;
+        font-size: 13px;
+        text-align: center;
     }
 }
 
@@ -440,7 +440,7 @@ body {
 
 @media (max-width: 768px) {
     #instructions1 { 
-      font-size: 13px;
+        font-size: 13px;
     }
 }
 
@@ -449,7 +449,7 @@ body {
 
 @media (max-width: 768px) {
     #sideBarInstructions { 
-      font-size: 13px;
+        font-size: 13px;
     }
 }
 
@@ -465,15 +465,15 @@ body {
 
 @media (max-width: 768px) {
     #resultMessage { 
-      font-size: 12px;
+        font-size: 12px;
     }
 }
 
 /* CHOICES TEXT */
 @media (max-width: 768px) {
     .choicesText { 
-      font-size: 11px;
-      margin: 10px 0px 0px 10px;
+        font-size: 11px;
+        margin: 10px 0px 0px 10px;
     }
 }
 
